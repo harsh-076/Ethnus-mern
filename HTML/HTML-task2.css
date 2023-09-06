@@ -1,0 +1,13 @@
+
+.c1{
+    display:flex;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+}
+body{
+    border:1px solid black;
+    width:500px;
+    
+}

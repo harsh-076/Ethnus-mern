@@ -1,0 +1,11 @@
+.c1{
+    display:flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color:blue;
+}
+input{
+    width:99%
+}
