@@ -1,6 +1,5 @@
-.c1{
-    display:flex;
-    justify-content: center;
+body{
+    text-align:center;
 }
 h1{
     text-align: center;
@@ -8,4 +7,25 @@ h1{
 }
 input{
     width:99%
+}
+table{
+    width:60%;
+    margin:auto;
+}
+input[type= "submit"]{
+    margin:10px;
+    width:9%;
+
+}
+.display{
+    display:flex;
+}
+
+.hereby{
+    text-align:left;
+    margin: 10px;
+    
+}
+.declare{
+    display: flex;
 }
